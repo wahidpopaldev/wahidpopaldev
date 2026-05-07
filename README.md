@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Wahid Popal 👋
 
-<!--
-**wahidpopaldev/wahidpopaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate interested in frontend development, web development, and building clean user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+## Project 1: MovieRec
+
+MovieRec is a movie discovery web application built with Vue.js and the TMDB API.
+
+### Links
+
+- GitHub Repository: https://github.com/wahidpopaldev/MovieRec
+- Demo Video: YOUR_YOUTUBE_VIDEO_LINK_HERE
+
+### Features
+
+- Movie search
+- Genre exploration
+- Popular and highest-rated movies
+- Movie details page
+- Cast and actor profile pages
+- Review system
+- Responsive cinematic UI
+
+### Technologies
+
+- Vue.js
+- JavaScript
+- HTML
+- CSS
+- TMDB API
+
+---
+
+## Project 2: Coming Soon
+
+### Links
+
+- GitHub Repository:
+- Demo Video:
+
+### Features
+
+- Coming soon
+
+### Technologies
+
+- Coming soon
+
+---
+
+## Project 3: Coming Soon
+
+### Links
+
+- GitHub Repository:
+- Demo Video:
+
+### Features
+
+- Coming soon
+
+### Technologies
+
+- Coming soon
+
+---
+
+## Project 4: Coming Soon
+
+### Links
+
+- GitHub Repository:
+- Demo Video:
+
+### Features
+
+- Coming soon
+
+### Technologies
+
+- Coming soon
