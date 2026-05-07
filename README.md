@@ -13,7 +13,7 @@ MovieRec is a movie discovery web application built with Vue.js and the TMDB API
 ### Links
 
 - GitHub Repository: https://github.com/wahidpopaldev/MovieRec
-- Demo Video: YOUR_YOUTUBE_VIDEO_LINK_HERE
+- Demo Video: https://youtu.be/ij1wGNIVuCk
 
 ### Features
 
